@@ -1,0 +1,9 @@
+{
+    "duration": "PT2M12S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "contentRating": {},
+    "projection": "rectangular"
+}

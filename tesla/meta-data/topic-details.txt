@@ -1,0 +1,7 @@
+{
+    "topicCategories": [
+        "https://en.wikipedia.org/wiki/Hobby",
+        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+        "https://en.wikipedia.org/wiki/Vehicle"
+    ]
+}
