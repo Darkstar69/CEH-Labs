@@ -1,0 +1,25 @@
+Server:		192.168.191.2
+Address:	192.168.191.2#53
+
+Non-authoritative answer:
+Name:	tesla.com
+Address: 2.18.53.207
+Name:	tesla.com
+Address: 2.18.48.207
+Name:	tesla.com
+Address: 23.7.244.207
+Name:	tesla.com
+Address: 2.18.54.207
+Name:	tesla.com
+Address: 2.18.50.207
+Name:	tesla.com
+Address: 2.18.51.207
+Name:	tesla.com
+Address: 2.18.49.207
+Name:	tesla.com
+Address: 23.40.100.207
+Name:	tesla.com
+Address: 2.18.55.207
+Name:	tesla.com
+Address: 2.18.52.207
+
