@@ -1,6 +1,0 @@
-HPING 192.168.191.132 (eth0 192.168.191.132): icmp mode set, 28 headers + 0 data bytes
-len=46 ip=192.168.191.132 ttl=64 id=13570 icmp_seq=0 rtt=7.8 ms
-len=46 ip=192.168.191.132 ttl=64 id=13571 icmp_seq=1 rtt=7.0 ms
-len=46 ip=192.168.191.132 ttl=64 id=13572 icmp_seq=2 rtt=2.1 ms
-len=46 ip=192.168.191.132 ttl=64 id=13573 icmp_seq=3 rtt=5.9 ms
-len=46 ip=192.168.191.132 ttl=64 id=13574 icmp_seq=4 rtt=1.4 ms

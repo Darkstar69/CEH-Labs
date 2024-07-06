@@ -1,0 +1,39 @@
+# Nmap 7.94SVN scan initiated Sat Jul  6 16:15:34 2024 as: nmap --script=smb-os-discovery -oN smbscan1.txt 192.168.191.132
+Nmap scan report for 192.168.191.132
+Host is up (0.0012s latency).
+Not shown: 977 closed tcp ports (conn-refused)
+PORT     STATE SERVICE
+21/tcp   open  ftp
+22/tcp   open  ssh
+23/tcp   open  telnet
+25/tcp   open  smtp
+53/tcp   open  domain
+80/tcp   open  http
+111/tcp  open  rpcbind
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+512/tcp  open  exec
+513/tcp  open  login
+514/tcp  open  shell
+1099/tcp open  rmiregistry
+1524/tcp open  ingreslock
+2049/tcp open  nfs
+2121/tcp open  ccproxy-ftp
+3306/tcp open  mysql
+5432/tcp open  postgresql
+5900/tcp open  vnc
+6000/tcp open  X11
+6667/tcp open  irc
+8009/tcp open  ajp13
+8180/tcp open  unknown
+
+Host script results:
+| smb-os-discovery: 
+|   OS: Unix (Samba 3.0.20-Debian)
+|   Computer name: metasploitable
+|   NetBIOS computer name: 
+|   Domain name: localdomain
+|   FQDN: metasploitable.localdomain
+|_  System time: 2024-07-06T06:45:45-04:00
+
+# Nmap done at Sat Jul  6 16:15:34 2024 -- 1 IP address (1 host up) scanned in 0.28 seconds

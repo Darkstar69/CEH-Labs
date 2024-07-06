@@ -1,6 +1,0 @@
-HPING 192.168.131.132 (eth0 192.168.131.132): A set, 40 headers + 0 data bytes
-len=46 ip=192.168.131.132 ttl=128 id=11300 sport=80 flags=R seq=0 win=32767 rtt=3.5 ms
-len=46 ip=192.168.131.132 ttl=128 id=11301 sport=80 flags=R seq=1 win=32767 rtt=2.6 ms
-len=46 ip=192.168.131.132 ttl=128 id=11302 sport=80 flags=R seq=2 win=32767 rtt=6.6 ms
-len=46 ip=192.168.131.132 ttl=128 id=11303 sport=80 flags=R seq=3 win=32767 rtt=2.0 ms
-len=46 ip=192.168.131.132 ttl=128 id=11304 sport=80 flags=R seq=4 win=32767 rtt=1.5 ms

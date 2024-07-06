@@ -1,0 +1,7 @@
+   21 ftp        : .S..A...  64     0  5840    46
+   22 ssh        : .S..A...  64     0  5840    46
+   23 telnet     : .S..A...  64     0  5840    46
+   25 smtp       : .S..A...  64     0  5840    46
+   53 domain     : .S..A...  64     0  5840    46
+   80 http       : .S..A...  64     0  5840    46
+Not responding ports: 
